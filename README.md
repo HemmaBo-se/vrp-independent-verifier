@@ -6,10 +6,6 @@ This project is an independently maintained verifier implementation and does not
 
 **VRP Specification:** [vacationrentalprotocol/vrp-spec](https://github.com/vacationrentalprotocol/vrp-spec)
 
-
-
-An independent implementation of the [Vacation Rental Protocol (VRP)](https://github.com/HemmaBo-se/vrp-spec) verifier.
-
 This repository provides a standalone verifier for validating signed VRP offers and receipts without depending on the JavaScript implementation in the VRP specification repository.
 
 ## Status
@@ -102,7 +98,7 @@ It does not import or execute the verifier implementation from the specification
 
 The implementation follows the VRP specification:
 
-[VRP Specification](https://github.com/HemmaBo-se/vrp-spec)
+[VRP Specification](https://github.com/vacationrentalprotocol/vrp-spec)
 
 In particular, see the sections covering:
 
@@ -115,4 +111,3 @@ In particular, see the sections covering:
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
